@@ -1,11 +1,11 @@
 # Starter Web Project
-some text related to starter 1
+some text related to starter 2
 
 ## Introduction
-some text related to introduction 1
+some text related to introduction 2
 
 ## Purpose
-some text related to purpose 1
+some text related to purpose 2
 
 ## Deployment
 some text related to deployment 2
