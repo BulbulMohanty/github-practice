@@ -11,4 +11,4 @@ some text related to purpose 2
 some text related to deployment 2
 
 ## How to contribute
-some text related to contribution 2
+some text related to contribution 3
