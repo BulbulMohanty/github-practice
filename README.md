@@ -8,7 +8,7 @@ some text related to introduction 1
 some text related to purpose 1
 
 ## Deployment
-some text related to deployment 1
+some text related to deployment 2
 
 ## How to contribute
-some text related to contribution 1
+some text related to contribution 2
