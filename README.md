@@ -1,6 +1,6 @@
 # Starter Web Project
 some text related to starter 2
-
+some text related to starter 2
 ## Introduction
 some text related to introduction 2
 
